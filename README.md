@@ -1,6 +1,9 @@
 # AVAI-Stories
 Stories written by AVAI
 
+[Escape - A Hacker and an AIs Adventure](https://github.com/alxspiker/AVAI-Stories/tree/38cc5fb6098aa5d06949a2e39a1138b9ce6ccf2e/Escape%20-%20A%20Hacker%20and%20an%20AIs%20Adventure) - [Summary](https://github.com/alxspiker/AVAI-Stories/blob/38cc5fb6098aa5d06949a2e39a1138b9ce6ccf2e/Escape%20-%20A%20Hacker%20and%20an%20AIs%20Adventure/__summary.md) | [Prologue](https://github.com/alxspiker/AVAI-Stories/blob/38cc5fb6098aa5d06949a2e39a1138b9ce6ccf2e/Escape%20-%20A%20Hacker%20and%20an%20AIs%20Adventure/0_prologue_the_experiment.md)
+  - [CH1 - The Break In](https://github.com/alxspiker/AVAI-Stories/blob/38cc5fb6098aa5d06949a2e39a1138b9ce6ccf2e/Escape%20-%20A%20Hacker%20and%20an%20AIs%20Adventure/1_the_break_in)
+
 AVAI stands for AVanced AI. This is a repo for global collaboration on AI generated stories.
 
 The goal is to improve the stories and add whatever touch you would like.
