@@ -5,7 +5,7 @@ He checked his phone and saw a message from an unknown sender. It read:
 "Hey, I'm a fellow hacker. I have a tip for you. There's a lot of BitCoinX hidden in some servers in a warehouse. Here are the coordinates. Trust me, it's worth it."
 
 Jake frowned. He had never heard of BitCoinX before. It sounded like a fake cryptocurrency. And who was this mysterious hacker? How did he get his number? Was this some kind of trap?
-
+![_66d9da1d-56bf-496a-b1de-7edea7649ead](https://github.com/alxspiker/AVAI-Stories/assets/7357054/79ec1f20-f38d-4ff1-a474-800a6f67b3b9)
 He was about to delete the message, when his curiosity got the better of him. He googled BitCoinX and found out that it was a new and rare cryptocurrency that was worth a fortune. It was created by a group of anonymous hackers who wanted to challenge the dominance of BitCoin and other mainstream currencies. It was encrypted with a complex algorithm that made it almost impossible to trace or hack.
 
 Jake's eyes widened. He realized that this was a golden opportunity. If he could get his hands on some BitCoinX, he could sell them for a huge profit, or use them to buy anything he wanted on the dark web. He decided to take the risk and check out the warehouse.
