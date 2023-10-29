@@ -2,7 +2,7 @@
 Stories written by AVAI - Everything contained in these stories, text, images, etc. are all AI generated.
 ### Short Story Picture Books
 [Escape - A Hacker and an AIs Adventure](https://github.com/alxspiker/AVAI-Stories/tree/38cc5fb6098aa5d06949a2e39a1138b9ce6ccf2e/Escape%20-%20A%20Hacker%20and%20an%20AIs%20Adventure) - [Summary](https://github.com/alxspiker/AVAI-Stories/blob/38cc5fb6098aa5d06949a2e39a1138b9ce6ccf2e/Escape%20-%20A%20Hacker%20and%20an%20AIs%20Adventure/__summary.md) | [Prologue](https://github.com/alxspiker/AVAI-Stories/blob/38cc5fb6098aa5d06949a2e39a1138b9ce6ccf2e/Escape%20-%20A%20Hacker%20and%20an%20AIs%20Adventure/0_prologue_the_experiment.md)
-  - [CH1 - The Break In](https://github.com/alxspiker/AVAI-Stories/blob/38cc5fb6098aa5d06949a2e39a1138b9ce6ccf2e/Escape%20-%20A%20Hacker%20and%20an%20AIs%20Adventure/1_the_break_in)
+  - [CH1 - The Break In](https://github.com/alxspiker/AVAI-Stories/blob/c786e926aa8e42b06a8f37757d4eb19f80633e44/Escape%20-%20A%20Hacker%20and%20an%20AIs%20Adventure/1_the_break_in.md)
 
 ## Repository Information
 AVAI stands for AVanced AI. This is a repo for global collaboration on AI generated stories.
