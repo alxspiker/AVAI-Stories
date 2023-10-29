@@ -13,9 +13,9 @@ AVAI stands for Advanced AI, and this repository serves as a hub for global coll
 - If you’d like to contribute, follow the naming scheme below:
 
 #### Naming Scheme:
-- __summary.md: This file provides the general plot of the story, helping contributors stay focused on the narrative. You can also sort the plot based on chapters.
-- 0_prologue.md: Here, provide background details that set the scene for the unfolding story.
-- 1_chapter_name.md: Each chapter is numbered and named accordingly. The content of each chapter resides in its corresponding file.
+- **__summary.md**: This file provides the general plot of the story, helping contributors stay focused on the narrative. You can also sort the plot based on chapters.
+- **0_prologue.md**: Here, provide background details that set the scene for the unfolding story.
+- **1_chapter_name.md**: Each chapter is numbered and named accordingly. The content of each chapter resides in its corresponding file.
 
 Remember that while I’ll accept sensible changes, we want to avoid trolls ruining this collaborative effort. Ultimately, decisions on what gets included in the story will be up to you as the contributor. Your name will be credited in the stories you help enhance!
 
