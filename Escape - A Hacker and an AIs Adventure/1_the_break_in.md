@@ -12,7 +12,11 @@ Jake's eyes widened. He realized that this was a golden opportunity. If he could
 
 He grabbed his backpack, which contained his laptop, his hacking tools, and some snacks. He put on his hoodie, his sunglasses, and his mask. He didn't want to be recognized or recorded by any cameras or drones. He left his apartment and headed to the subway station.
 
-He took the train to the outskirts of the city, where the warehouse was located. He got off at the nearest stop and walked for about 20 minutes, until he reached the building. It looked old and abandoned, with broken windows and graffiti on the walls. There was no sign of any security or activity.
+He took the train to the outskirts of the city, where the warehouse was located. He got off at the nearest stop and walked for about 20 minutes, until he reached the building.
+
+Jake surveyed the old warehouse for a couple of days. It stood on the outskirts of the city, a forgotten relic with broken windows and graffiti-covered walls. To anyone passing by, it appeared abandoned. But Jake knew better.
+
+One evening, as the sun dipped below the horizon, he noticed something peculiar—a green camouflaged jeep leaving the building. Most people would have dismissed it, but Jake’s instincts kicked in. He was about to steal from that guy.
 ![_c6819c2b-928a-4c06-af4b-6c9fc12917c7](https://github.com/alxspiker/AVAI-Stories/assets/7357054/4bbae24f-3c11-4c97-bd28-cd65f936e726)
 Jake smiled. This looked easy. He walked around the warehouse, looking for an entrance. He found a metal door that was locked with a padlock. He took out his lockpick and opened it in seconds. He entered the warehouse and closed the door behind him.
 
